@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.local.txt
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+output/*.csv
+output/*.log
+!output/.gitkeep
